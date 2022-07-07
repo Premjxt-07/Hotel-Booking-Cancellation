@@ -1,20 +1,20 @@
 # Hotel-Booking-Cancellation
 It's a machine learning project based on booking cancellation norm. It will try to predict whether the booking will be cancelled or not.
 
-About the Project
+About the Project:
 
 It's a machine learning classification project that will try to predict whether a booking will be cancelled or a booking will not be cancelled using machine learning based on historical data.
 
-Problem Statement
+Problem Statement:
 
 With the increase trend of cancellation from year to year, some hotel have think that high cancellation in hotel is the new norm of the industry which is a completely wrong approach, one out of four hotel guests are cancelling hotel booking ahead of a stay. This cancellation trend has effect the hotel not being able to accurately forecast occupancy within their revenue management, and the trend of cancellation also have causes hotel loss in opportunity cost (unsold room due to cancellation)
 
-Goals
+Goals:
 1. The Goals of this project is to find out the characteristic of customers who cancelled and finding a pattern in cancelled booking by doing an exploratory data      analysis
 2. Building classification machine learning model to predict cancellation, that has accuracy score around 0.75 - 0.9
 3. Build and Deploy web application / dashboard using flask from our machine learning algorithm, that can predict of cancellation based on user input
 
-Business Questions
+Business Questions:
 
 List of Questions to help project goals
 1. How Market Segment Of Booking Affecting Cancellation ?
@@ -41,8 +41,10 @@ Data Cleaning :
 9. Dropping row with outliers that's super different compared to the other row in the columns
 
 10. Row with daily rate that's above 5000 INR
+
  
 Exploratory Data Analysis :
+
 
 1.Feature Engineering
 
@@ -57,6 +59,7 @@ Exploratory Data Analysis :
 
 Feature Selection for machine learning process:
 
+
 1.Label encoding for certain columns that needs to be encoded
 
 2.Association checking using dython
@@ -64,6 +67,7 @@ Feature Selection for machine learning process:
 3.Feature selection based on EDA and dython association
 
 Model Building:
+
 
 1.Train Test Split
 
