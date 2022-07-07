@@ -46,47 +46,47 @@ Data Cleaning :
 Exploratory Data Analysis :
 
 
-1.Feature Engineering
+1. Feature Engineering
 
-2.Binning
+2. Binning
 
-3.Aggregating Columns
+3. Aggregating Columns
 
-4.Visualization
+4. Visualization
 
-5.Insight & Conclusion
+5. Insight & Conclusion
 
 
 Feature Selection for machine learning process:
 
 
-1.Label encoding for certain columns that needs to be encoded
+1. Label encoding for certain columns that needs to be encoded
 
-2.Association checking using dython
+2. Association checking using dython
 
-3.Feature selection based on EDA and dython association
+3. Feature selection based on EDA and dython association
 
 
 Model Building:
 
 
-1.Train Test Split
+1. Train Test Split
 
-2.Using pipeline for model building
+2. Using pipeline for model building
 
-3.scaling for numerical features
+3. Scaling for numerical features
 
-4.label encoder for categorical features
+4. label encoder for categorical features
 
-5.Creating base model with few algorithm (Logistic Regression, K Neighbors Classifier, Decision Tree Classifier, Random Forest classifier, XGB Classifier)
+5. Creating base model with few algorithm (Logistic Regression, K Neighbors Classifier, Decision Tree Classifier, Random Forest classifier, XGB Classifier)
 
-6.Checking evaluation matrix
+6. Checking evaluation matrix
 
-7.Hyperparameter tuning on all algorithm
+7. Hyperparameter tuning on all algorithm
 
-8.checking evaluation matrix on the tuned model
+8. checking evaluation matrix on the tuned model
 
-9.Export the model with the best accuracy score
+9. Export the model with the best accuracy score
 
 
 Dashboard Building Using Flask
