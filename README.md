@@ -1,5 +1,4 @@
 # Hotel-Booking-Cancellation
-It's a machine learning project based on booking cancellation norm. It will try to predict whether the booking will be cancelled or not.
 
 About the Project:
 
